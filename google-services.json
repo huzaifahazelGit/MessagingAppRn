@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "191792014167",
+    "project_id": "realm-4805d",
+    "storage_bucket": "realm-4805d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191792014167:android:fbcdda7a4163985f781412",
+        "android_client_info": {
+          "package_name": "com.tarawilson.realm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191792014167-mdo44g7fif48hnat4l4dl168980mnptq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlmEpPr8RmyEPFThHugOBVGcVWsa-Wvd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191792014167-mdo44g7fif48hnat4l4dl168980mnptq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "191792014167-louau50a6bonton92a1lrlcrks0lsead.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tarawilson.realm"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
